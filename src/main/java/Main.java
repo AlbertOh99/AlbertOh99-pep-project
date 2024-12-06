@@ -11,4 +11,6 @@ public class Main {
         Javalin app = controller.startAPI();
         app.start(8080);
     }
+
+    
 }
